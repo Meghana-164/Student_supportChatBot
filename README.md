@@ -22,6 +22,7 @@ student_chatbot/
 ├── UI.py                 # Streamlit frontend
 ├── requirements.txt      # Required dependencies with versions
 └── README.md             # You're reading this file
+└── Studentsupport.ipnb   # Just for reference (not used for running,standard version is the main_logic.py file )
 ```
 
 ---
